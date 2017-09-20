@@ -1,4 +1,7 @@
-[
+[   {
+        "name": "Skyline",
+        "colors": ["#2dc8f3", "#1497e2"]
+    },
     {
         "name": "Sel",
         "colors": ["#00467F", "#A5CC82"]
